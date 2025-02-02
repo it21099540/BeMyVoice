@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "753991794709",
+    "firebase_url": "https://be-my-voice-43875-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "be-my-voice-43875",
+    "storage_bucket": "be-my-voice-43875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753991794709:android:581c4acaf26d101fa44e1c",
+        "android_client_info": {
+          "package_name": "com.example.bemyvoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753991794709-pv572viimlesvejn4dcdd10tieu7pi01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bemyvoice",
+            "certificate_hash": "a39009a55c97f8942ab38024a9562d3df30efc95"
+          }
+        },
+        {
+          "client_id": "753991794709-6juekjl1nkfdnvt5geggh4nibsb6q294.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk1yfvi7G4Ia5clQE5zmo4QqgGoGr4G8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753991794709-6juekjl1nkfdnvt5geggh4nibsb6q294.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753991794709-e9grmb250eeurtfue25vt3hpakghihbd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bemyvoice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
